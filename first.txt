@@ -3,3 +3,4 @@ Gitの練習ファイルを作成します。
 ・git add
 ・git commit
 ・git rm
+・git status
